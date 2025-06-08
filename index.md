@@ -14,7 +14,7 @@ You can find more details in my full CV below. PLease feel free to view my proje
 
 ---
 
-📄 [**Download my CV**](/assets/files/resume_akila.pdf)
+📄 [**Download my CV**](/assets/files/CURRICULUM%20VITAE%20AKILA.pdf)
 <!--
 📄 [**Download my CV**](/assets/files/Academic_resume_akila.pdf)
 -->
